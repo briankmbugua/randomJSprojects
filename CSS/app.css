@@ -1,0 +1,29 @@
+body {
+  font-family: "work sans", sans-serif;
+  margin-left: 300px;
+  margin-top: 150px;
+  background: #d9d9d9;
+}
+
+.time {
+  background-color: #0c0c0c;
+  color: #fff;
+  border: 7px solid #fffcfc;
+  padding: 8px;
+  text-align: center;
+  width: 500px;
+}
+
+.hms {
+  font-size: 68pt;
+  font-weight: 200;
+}
+
+.ampm {
+  font-size: 22pt;
+}
+
+.date {
+  font-size: 15pt;
+}
+/*# sourceMappingURL=app.css.map */
