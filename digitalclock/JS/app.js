@@ -47,7 +47,6 @@ function updateTime(){
             "December"
         ],
         day = dateInfo.getDate();
-
     //store date
 
     let currentDate = `${dow[dateInfo.getDay()]} , ${month[dateInfo.getMonth()]} ${day}`;
